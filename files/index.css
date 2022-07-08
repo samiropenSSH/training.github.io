@@ -1,0 +1,28 @@
+* {
+    background-color: blue;
+    box-sizing: border-box;
+    margin: 0%;
+    text-align: center;
+
+}
+h1 {
+    padding: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: aliceblue;
+    font-family: cursive;
+
+}
+.header {
+
+    background-color: blue;
+    padding: 0px;
+    margin: 20px;
+    
+}
+
+
+
+hr {
+    margin-top: 30px;
+}
